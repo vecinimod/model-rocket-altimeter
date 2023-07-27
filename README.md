@@ -1,7 +1,7 @@
 # Arduino model rocket altimeter
 An easy to maintain model rocket altimeter library for bosch barometric pressure sensors 
 
-#use with a ESP wifi compatible MCU/arduino API device such as an Adafruit QT Py ESP32-C3 and a Bosch BMP280 connected via i2C protocol
+#use with a ESP wifi small form factor compatible MCU/arduino API device such as an Adafruit QT Py ESP32-C3 and a Bosch BMP280 connected via i2C protocol -> these can fit in BT-20 body tubes!
 
 How I've configured my mcu:
 
